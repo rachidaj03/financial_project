@@ -1,4 +1,4 @@
-# Projet Finance — Jet Fuel Hedging Strategy (JetBlue Case)
+# Projet Finance - Jet Fuel Hedging Strategy (JetBlue Case)
 
 **Team:** Aicha Atouch, Assmaa Bamaarouf, Najma Atchany, Rachid Ait Jalloul, Soulaimane Elamari
 
